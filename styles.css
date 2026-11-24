@@ -6,3 +6,7 @@
 
 .contact-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:12px}.button.secondary{background:transparent;color:var(--text)}.whatsapp-cta{background:#25d366;border-color:#25d366;color:#07140b}.whatsapp-cta:hover{background:#48e27e;border-color:#48e27e;color:#07140b}.whatsapp-float{position:fixed;z-index:80;right:24px;bottom:24px;display:flex;align-items:center;gap:10px;padding:13px 18px;border-radius:999px;background:#25d366;color:#06150b;box-shadow:0 10px 35px #0008,0 0 24px #25d36633;font:700 11px var(--sans);letter-spacing:.03em;transition:transform .25s,box-shadow .25s}.whatsapp-float:hover{transform:translateY(-4px);box-shadow:0 14px 40px #0009,0 0 30px #25d36655}.whatsapp-float svg{width:21px;height:21px;fill:currentColor}.whatsapp-float span{display:inline}
 @media(max-width:640px){.contact-actions{flex-direction:column;align-items:center}.contact-actions .button{width:min(100%,280px);justify-content:center}.whatsapp-float{right:15px;bottom:15px;padding:12px 15px}.whatsapp-float svg{width:22px;height:22px}}
+
+/* NŪRA SKIN project presentation */
+.project-nura .project-image{background:#f7f3eb;border-color:#d9cbb7}.project-nura .project-image img{object-position:center 38%}.project-nura .image-open{color:#f2e7d6}.project-nura .project-title h3{letter-spacing:-.045em}.project-nura .project-title h3 span{color:#d8b77a}
+.project-nura .project-gallery img{object-position:top center}
